@@ -178,3 +178,5 @@ Custom key bindings can be added/edited in the [input.conf](https://github.com/Z
 * [mpv wiki](https://github.com/mpv-player/mpv/wiki) - Official wiki with links to all user scripts/shaders, FAQ's and much more.
 * [Mathematical evaluation of various scalers](https://artoriuz.github.io/blog/mpv_upscaling.html) - My config uses (mostly) the best scalers/settings from this analysis.
 * [mpv manual](https://mpv.io/manual/master/) - Lists all the settings and configuration options available including video/audio settings, scripting, and countless other customisations.
+
+Thanks to @Zabooby for his config files. 
