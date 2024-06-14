@@ -12,6 +12,7 @@ Before installing, please take your time to read this whole README as common iss
 - [evafast](https://github.com/po5/evafast) - Fast-forwarding and seeking on a single key.
 - [thumbfast](https://github.com/po5/thumbfast) - High-performance on-the-fly thumbnailer.
 - [memo](https://github.com/po5/memo) - Saves watch history, and displays it in a nice menu, integrated with uosc. 
+- [InputEvent](https://github.com/natural-harmonia-gropius/input-event) - Enhances input.conf with better, conflict-free, low-latency event mechanisms.
 - [autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) - Automatically load playlist entries before and after the currently playing file, by scanning the directory.
 - [autodeint](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autodeint.lua) - Automatically insert the appropriate deinterlacing filter based on a short section of the current video, triggered by key bind.
 - [misc](https://github.com/stax76/mpv-scripts/blob/main/misc.lua)
@@ -136,6 +137,7 @@ mpv
 |   |   ├── chapterskip.lua
 │   │   ├── evafast.lua                   # Activated by holding right arrow key
 |   |   ├── memo.lua
+|   |   ├── inputevent.lua
 │   │   ├── thumbfast.lua                     
 │   │   └── webtorrent.js                 # Point here when setting up the webtorrent script
 │   │
