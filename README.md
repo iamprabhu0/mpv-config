@@ -9,11 +9,10 @@ Before installing, please take your time to read this whole README as common iss
 
 ## Scripts and Shaders
 - [uosc](https://github.com/darsain/uosc) - Adds a minimalist but highly customisable GUI.
-- [evafast](https://github.com/po5/evafast) - Fast-forwarding and seeking on a single key.
 - [thumbfast](https://github.com/po5/thumbfast) - High-performance on-the-fly thumbnailer.
 - [memo](https://github.com/po5/memo) - Saves watch history, and displays it in a nice menu, integrated with uosc. 
 - [InputEvent](https://github.com/natural-harmonia-gropius/input-event) - Enhances input.conf with better, conflict-free, low-latency event mechanisms.
-- [autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) - Automatically load playlist entries before and after the currently playing file, by scanning the directory.
+- [SmartSkip](https://github.com/Eisa01/mpv-scripts/blob/master/scripts/SmartSkip.lua) - Automatically or manually skip opening, intro, outro, and preview, like never before. Jump to next file, previous file, and save your chapter changes.
 - [autodeint](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autodeint.lua) - Automatically insert the appropriate deinterlacing filter based on a short section of the current video, triggered by key bind.
 - [misc](https://github.com/stax76/mpv-scripts/blob/main/misc.lua)
     - Show detailed media info on screen using mediainfo CLI.
@@ -21,7 +20,6 @@ Before installing, please take your time to read this whole README as common iss
 - [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Adds a hook that allows mpv to stream torrents. It provides an osd overlay to show info/progress.
     - **This script needs some extra setup, follow the simple installation steps [here](https://github.com/mrxdst/webtorrent-mpv-hook#install)**.
     - **Point to the same location specified in the File Structure section below when installing the webtorrent.js file.**
-- [chapterskip](https://github.com/po5/chapterskip) - Automatically skips chapters based on title.
 - [M_x](https://github.com/Seme4eg/mpv-scripts/tree/master#m-x) -  A menu that shows all commands you have available, key bindings and commends (if present) and from which you can call any of those commands.
 - - - 
 - [nlmeans](https://github.com/AN3223/dotfiles/tree/master/.config/mpv/shaders) - Highly configurable and featureful denoiser.
