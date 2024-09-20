@@ -7,7 +7,7 @@ Just my personal config files for use in mpv, a free, open-source, & cross-platf
 
 Before installing, please take your time to read this whole README as common issues can be easily solved by simply reading carefully.
 
-## Scripts and Shaders
+## Scripts
 - [uosc](https://github.com/darsain/uosc) - Adds a minimalist but highly customisable GUI.
 - [thumbfast](https://github.com/po5/thumbfast) - High-performance on-the-fly thumbnailer.
 - [memo](https://github.com/po5/memo) - Saves watch history, and displays it in a nice menu, integrated with uosc. 
@@ -21,7 +21,7 @@ Before installing, please take your time to read this whole README as common iss
     - **This script needs some extra setup, follow the simple installation steps [here](https://github.com/mrxdst/webtorrent-mpv-hook#install)**.
     - **Point to the same location specified in the File Structure section below when installing the webtorrent.js file.**
 - [M_x](https://github.com/Seme4eg/mpv-scripts/tree/master#m-x) -  A menu that shows all commands you have available, key bindings and commends (if present) and from which you can call any of those commands.
-- - - 
+## Shaders
 - [nlmeans](https://github.com/AN3223/dotfiles/tree/master/.config/mpv/shaders) - Highly configurable and featureful denoiser.
 - [NVIDIA Image Sharpening](https://gist.github.com/agyild/7e8951915b2bf24526a9343d951db214) - An adaptive-directional sharpening algorithm shaders.
 - [FidelityFX CAS](https://gist.github.com/agyild/bbb4e58298b2f86aa24da3032a0d2ee6) - Sharpening shader that provides an even level of sharpness across the frame. 
